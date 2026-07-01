@@ -1,4 +1,4 @@
-//El problema de las ocho reinas es: colocar ocho reinas en un tablero de ajedrez de tal manera que ninguna reina ataque a otra//
+//El problema de las ocho reinas conciste en colocar ocho reinas en un tablero de ajedrez de tal manera que ninguna reina ataque a otra//
 #include <stdio.h>
 
 #define N 8
